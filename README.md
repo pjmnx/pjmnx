@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Paul Jiménez  
+# Hi there 👋, I'm Paul Jimenez  
 
 🚀 **Senior Software Developer & Architect** with 20+ years of experience building high-performance systems, scalable architectures, and solving complex problems with simple, elegant code.  
 
@@ -59,10 +59,10 @@ When I’m not coding, I’m:
 
 ## 📊 GitHub Stats  
 
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjmnx&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=pjmnx&theme=radical&border_radius=10)
+![![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pjmnx&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=pjmnx&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pjmnx&layout=compact&langs_count=10&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=pjmnx&layout=compact&langs_count=10&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjmnx&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pjmnx&theme=radical&border_radius=10&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
